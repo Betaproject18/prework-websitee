@@ -1,0 +1,41 @@
+
+#title{
+    text-align: center;
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+}
+#fname {
+    width: 25%;
+    display: inline-block;
+    padding: 6px 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+    margin-top: 4px;
+}
+#lname {
+    width: 25%;
+    display: inline-block;
+    padding: 6px 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+    margin-top: 4px;
+}
+#message {
+    border-width: 2px;
+    border-color: green;
+    width: 500px;
+    height: 150px;
+    margin-top: 4px;
+}
+#submitbutton {
+    width: 75px;
+    background-color: green;
+    border-color: green;
+    border-radius: 4px;
+    color: white;
+}
+fieldset {
+    border-color: green;
+}

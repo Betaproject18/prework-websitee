@@ -1,0 +1,10 @@
+html {
+    background-color: lightblue;
+}
+#webheader{
+    text-align: center;
+}
+#mainarticle{
+    float: right;
+    position: absolute; left: 200px; top: 100px;
+}

@@ -1,0 +1,9 @@
+#webHeader {
+    text-align: center;
+    border: solid black 2px;
+}
+
+#article {
+    border: solid black 2px;
+    padding: 2px;
+}
